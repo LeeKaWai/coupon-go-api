@@ -1,0 +1,26 @@
+system:
+  port: "9090"
+
+mysql:
+  username: 
+  password:
+  host: 
+  port:
+  name:
+
+taobao:
+  appkey: 
+  appsecret: 
+  restUrl: 
+  pid:
+  siteid: 
+  adzoneid: 
+  wechat_pid: 
+  wechat_siteid: 
+  wechat_adzoneid: 
+  relation_pid: 
+  relation_siteid:  
+  relation_adzoneid: 
+  relation_id: 
+  ztk_appkey: 
+  ztk_sid: 
